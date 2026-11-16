@@ -18,8 +18,6 @@ grind-arcade/
 ├── js/
 │   ├── data.js       Workout program: stages 1–7 + maintenance exercises
 │   └── app.js        State, schedule, rendering and navigation
-└── original/
-    └── grind-arcade.html   The original single-file version
 ```
 
 ## Editing the program
