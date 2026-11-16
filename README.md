@@ -1,4 +1,4 @@
-# GRIND — Arcade Edition
+# GRIND: Arcade Edition
 
 A retro arcade-styled home workout tracker. Mon/Wed/Fri schedule, alternating Day A (push/core/neck) and Day B (pull/legs/core), a 7-stage progressive program, then an endless maintenance phase.
 
